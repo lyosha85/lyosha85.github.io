@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lyosha85.github.io/static/css/main.2cce8147.chunk.css",
-    "main.js": "/lyosha85.github.io/static/js/main.6c7f26e4.chunk.js",
-    "main.js.map": "/lyosha85.github.io/static/js/main.6c7f26e4.chunk.js.map",
-    "runtime~main.js": "/lyosha85.github.io/static/js/runtime~main.77b370a7.js",
-    "runtime~main.js.map": "/lyosha85.github.io/static/js/runtime~main.77b370a7.js.map",
-    "static/js/2.b41502e9.chunk.js": "/lyosha85.github.io/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/lyosha85.github.io/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/lyosha85.github.io/index.html",
-    "precache-manifest.4b30a087e2999d80309d29129e82de93.js": "/lyosha85.github.io/precache-manifest.4b30a087e2999d80309d29129e82de93.js",
-    "service-worker.js": "/lyosha85.github.io/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/lyosha85.github.io/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/lyosha85.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "portfoliorepublic.com/static/css/main.2cce8147.chunk.css",
+    "main.js": "portfoliorepublic.com/static/js/main.0ab70a96.chunk.js",
+    "main.js.map": "portfoliorepublic.com/static/js/main.0ab70a96.chunk.js.map",
+    "runtime~main.js": "portfoliorepublic.com/static/js/runtime~main.f799d6f9.js",
+    "runtime~main.js.map": "portfoliorepublic.com/static/js/runtime~main.f799d6f9.js.map",
+    "static/js/2.b41502e9.chunk.js": "portfoliorepublic.com/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "portfoliorepublic.com/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "portfoliorepublic.com/index.html",
+    "precache-manifest.de0f10dfd752cd84a2c343a978169a32.js": "portfoliorepublic.com/precache-manifest.de0f10dfd752cd84a2c343a978169a32.js",
+    "service-worker.js": "portfoliorepublic.com/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "portfoliorepublic.com/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "portfoliorepublic.com/static/media/logo.5d5d9eef.svg"
   }
 }
